@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Registeration",
+    "slug": "Reegisteraion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/registercom.png",
+    "android": {
+      "versionCode":1,
+      "package":"com.riyhana.registerApp"
+    }
+  }
+}
